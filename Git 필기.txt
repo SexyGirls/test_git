@@ -1,0 +1,2 @@
+Staged files: index, staging area
+Unstaged files: working copy
